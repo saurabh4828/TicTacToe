@@ -17,7 +17,7 @@ int main()
 
    clrscr();
    textcolor(3);
-
+     
    cprintf("\n\n ENTER THE FIRST PLAYER NAME  : ");
    gets(p1);
 
